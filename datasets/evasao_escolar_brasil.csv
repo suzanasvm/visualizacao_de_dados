@@ -1,0 +1,16 @@
+ano,regiao,taxa_evasao,nota_media_enem,renda_familiar_salario_minimo,percentual_internet,percentual_professores_com_nivel_superior,alunos_por_turma,percentual_escolas_com_laboratorio_informatica,investimento_por_aluno
+2018,Norte,14.2,492,1.4,38,61,34,22,3820
+2018,Nordeste,12.8,501,1.6,42,67,32,28,3950
+2018,Centro-Oeste,8.1,532,2.3,67,82,28,51,5340
+2018,Sudeste,6.4,548,2.9,74,89,27,63,6120
+2018,Sul,5.9,553,3.1,78,91,26,68,6480
+2020,Norte,17.1,478,1.2,44,63,36,24,3640
+2020,Nordeste,15.3,487,1.4,49,69,34,30,3780
+2020,Centro-Oeste,9.8,519,2.1,72,83,30,53,5100
+2020,Sudeste,7.9,534,2.6,80,90,29,65,5890
+2020,Sul,7.2,539,2.8,83,92,28,70,6210
+2022,Norte,15.8,484,1.3,52,65,35,26,3750
+2022,Nordeste,13.6,496,1.5,57,71,33,33,3920
+2022,Centro-Oeste,8.9,525,2.2,76,85,29,56,5280
+2022,Sudeste,7.1,541,2.7,84,91,28,67,6050
+2022,Sul,6.5,546,2.9,87,93,27,72,6390
